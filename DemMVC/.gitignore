@@ -1,0 +1,8 @@
+﻿bin/
+obj/
+.vs/
+*.user
+*.suo
+*.sln.docstates
+*.cache
+_ReSharper.*
